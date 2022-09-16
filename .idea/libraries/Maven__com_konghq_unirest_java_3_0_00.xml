@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.konghq:unirest-java:3.0.00">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/com/konghq/unirest-java/3.0.00/unirest-java-3.0.00.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/com/konghq/unirest-java/3.0.00/unirest-java-3.0.00-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/com/konghq/unirest-java/3.0.00/unirest-java-3.0.00-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

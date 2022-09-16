@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="consoleApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/consoleApp_jar</output-path>
+    <root id="archive" name="consoleApp.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="consoleApp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.6.21/kotlin-stdlib-jdk8-1.6.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/com/konghq/unirest-java/3.0.00/unirest-java-3.0.00.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/apache/httpcomponents/httpcore-nio/4.4.10/httpcore-nio-4.4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/apache/httpcomponents/httpasyncclient/4.1.4/httpasyncclient-4.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.21/kotlin-stdlib-jdk7-1.6.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/apache/httpcomponents/httpmime/4.5.9/httpmime-4.5.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/jetbrains/kotlin/kotlin-stdlib/1.6.21/kotlin-stdlib-1.6.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Environment/Maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/mvn-resp/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.21/kotlin-stdlib-common-1.6.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
